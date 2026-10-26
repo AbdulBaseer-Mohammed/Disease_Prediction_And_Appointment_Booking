@@ -1,0 +1,1380 @@
+{
+  "(vertigo) Paroymsal  Positional Vertigo": [
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Pulmonologist",
+      "Location": "Pune",
+      "Date": "2025-06-21",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "General Physician",
+      "Location": "Chennai",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Neurologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-19",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Neurologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-16",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    }
+  ],
+  "AIDS": [
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Orthopedic",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-19",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "General Physician",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-19",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Neurologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-12",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "General Physician",
+      "Location": "Hyderabad",
+      "Date": "2025-06-14",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    }
+  ],
+  "Acne": [
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "Orthopedic",
+      "Location": "Delhi",
+      "Date": "2025-06-18",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "Pulmonologist",
+      "Location": "Chennai",
+      "Date": "2025-06-12",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Neurologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-21",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "ENT Specialist",
+      "Location": "Bangalore",
+      "Date": "2025-06-20",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Pulmonologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-18",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    }
+  ],
+  "Alcoholic hepatitis": [
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Dermatologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-15",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Neurologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-16",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Chennai",
+      "Date": "2025-06-13",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Dermatologist",
+      "Location": "Pune",
+      "Date": "2025-06-16",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    }
+  ],
+  "Allergy": [
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Orthopedic",
+      "Location": "Kolkata",
+      "Date": "2025-06-15",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Pulmonologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-17",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "Gastroenterologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-21",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Orthopedic",
+      "Location": "Hyderabad",
+      "Date": "2025-06-14",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    }
+  ],
+  "Arthritis": [
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Gastroenterologist",
+      "Location": "Delhi",
+      "Date": "2025-06-21",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Gastroenterologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-18",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "Dermatologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    }
+  ],
+  "Bronchial Asthma": [
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Pune",
+      "Date": "2025-06-21",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Pulmonologist",
+      "Location": "Bangalore",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "Pulmonologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-18",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Orthopedic",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-12",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Dermatologist",
+      "Location": "Pune",
+      "Date": "2025-06-15",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    }
+  ],
+  "Cervical spondylosis": [
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "ENT Specialist",
+      "Location": "Delhi",
+      "Date": "2025-06-21",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Gastroenterologist",
+      "Location": "Bangalore",
+      "Date": "2025-06-15",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Orthopedic",
+      "Location": "Bangalore",
+      "Date": "2025-06-15",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    }
+  ],
+  "Chicken pox": [
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Gastroenterologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-19",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Cardiologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-16",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Cardiologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-19",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Orthopedic",
+      "Location": "Pune",
+      "Date": "2025-06-13",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    }
+  ],
+  "Chronic cholestasis": [
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Pulmonologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-19",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Gastroenterologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-18",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Orthopedic",
+      "Location": "Pune",
+      "Date": "2025-06-16",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Pulmonologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-20",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    }
+  ],
+  "Common Cold": [
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Kolkata",
+      "Date": "2025-06-17",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Chennai",
+      "Date": "2025-06-12",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Bangalore",
+      "Date": "2025-06-16",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Gastroenterologist",
+      "Location": "Delhi",
+      "Date": "2025-06-18",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Pulmonologist",
+      "Location": "Chennai",
+      "Date": "2025-06-15",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    }
+  ],
+  "Dengue": [
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-12",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Orthopedic",
+      "Location": "Chennai",
+      "Date": "2025-06-16",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Neurologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-16",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Gastroenterologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-17",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    }
+  ],
+  "Diabetes": [
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Neurologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-18",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Cardiologist",
+      "Location": "Delhi",
+      "Date": "2025-06-18",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "ENT Specialist",
+      "Location": "Chennai",
+      "Date": "2025-06-13",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Bangalore",
+      "Date": "2025-06-14",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Dermatologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-21",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    }
+  ],
+  "Dimorphic hemmorhoids(piles)": [
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Gastroenterologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-18",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Gastroenterologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-13",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "Pulmonologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-13",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    }
+  ],
+  "Drug Reaction": [
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Mumbai",
+      "Date": "2025-06-16",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Pulmonologist",
+      "Location": "Delhi",
+      "Date": "2025-06-13",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Orthopedic",
+      "Location": "Bangalore",
+      "Date": "2025-06-12",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Cardiologist",
+      "Location": "Bangalore",
+      "Date": "2025-06-19",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    }
+  ],
+  "Fungal infection": [
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Gastroenterologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-17",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Pulmonologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-14",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Neurologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-16",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "Orthopedic",
+      "Location": "Mumbai",
+      "Date": "2025-06-19",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Neurologist",
+      "Location": "Pune",
+      "Date": "2025-06-15",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    }
+  ],
+  "GERD": [
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Orthopedic",
+      "Location": "Hyderabad",
+      "Date": "2025-06-12",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "General Physician",
+      "Location": "Kolkata",
+      "Date": "2025-06-14",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Gastroenterologist",
+      "Location": "Delhi",
+      "Date": "2025-06-14",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Pulmonologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-19",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    }
+  ],
+  "Gastroenteritis": [
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "General Physician",
+      "Location": "Kolkata",
+      "Date": "2025-06-16",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "ENT Specialist",
+      "Location": "Delhi",
+      "Date": "2025-06-14",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Cardiologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-18",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    }
+  ],
+  "Heart attack": [
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Gastroenterologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-16",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Cardiologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-18",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Orthopedic",
+      "Location": "Hyderabad",
+      "Date": "2025-06-16",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Kolkata",
+      "Date": "2025-06-13",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Dermatologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-17",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    }
+  ],
+  "Hepatitis B": [
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Neurologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-20",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "ENT Specialist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-13",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Neurologist",
+      "Location": "Chennai",
+      "Date": "2025-06-17",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Kolkata",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    }
+  ],
+  "Hepatitis C": [
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "General Physician",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-21",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "General Physician",
+      "Location": "Delhi",
+      "Date": "2025-06-19",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Neurologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-21",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    }
+  ],
+  "Hepatitis D": [
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Cardiologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-12",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Dermatologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-19",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Orthopedic",
+      "Location": "Mumbai",
+      "Date": "2025-06-16",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    }
+  ],
+  "Hepatitis E": [
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "General Physician",
+      "Location": "Pune",
+      "Date": "2025-06-21",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Pulmonologist",
+      "Location": "Delhi",
+      "Date": "2025-06-12",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Orthopedic",
+      "Location": "Mumbai",
+      "Date": "2025-06-13",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "ENT Specialist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-16",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Orthopedic",
+      "Location": "Mumbai",
+      "Date": "2025-06-21",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    }
+  ],
+  "Hypertension": [
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "Orthopedic",
+      "Location": "Mumbai",
+      "Date": "2025-06-19",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Asha Mehta",
+      "Speciality": "General Physician",
+      "Location": "Mumbai",
+      "Date": "2025-06-13",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Gastroenterologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Pulmonologist",
+      "Location": "Pune",
+      "Date": "2025-06-21",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Cardiologist",
+      "Location": "Pune",
+      "Date": "2025-06-13",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    }
+  ],
+  "Hyperthyroidism": [
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Kolkata",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Neurologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-16",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Dermatologist",
+      "Location": "Chennai",
+      "Date": "2025-06-15",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    }
+  ],
+  "Hypoglycemia": [
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Mumbai",
+      "Date": "2025-06-20",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Gastroenterologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-13",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Kolkata",
+      "Date": "2025-06-18",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "General Physician",
+      "Location": "Pune",
+      "Date": "2025-06-14",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    }
+  ],
+  "Hypothyroidism": [
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Gastroenterologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-13",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Pulmonologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-20",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-20",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    }
+  ],
+  "Impetigo": [
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "Dermatologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-19",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Cardiologist",
+      "Location": "Pune",
+      "Date": "2025-06-18",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Dermatologist",
+      "Location": "Bangalore",
+      "Date": "2025-06-17",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    }
+  ],
+  "Jaundice": [
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Dermatologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-20",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Chennai",
+      "Date": "2025-06-17",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "General Physician",
+      "Location": "Bangalore",
+      "Date": "2025-06-21",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Gastroenterologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-18",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Dermatologist",
+      "Location": "Bangalore",
+      "Date": "2025-06-20",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    }
+  ],
+  "Malaria": [
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Gastroenterologist",
+      "Location": "Chennai",
+      "Date": "2025-06-21",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Dermatologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-21",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Dermatologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-12",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    }
+  ],
+  "Migraine": [
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Mumbai",
+      "Date": "2025-06-19",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Pulmonologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Orthopedic",
+      "Location": "Pune",
+      "Date": "2025-06-15",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Cardiologist",
+      "Location": "Chennai",
+      "Date": "2025-06-17",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Dermatologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-20",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    }
+  ],
+  "Osteoarthristis": [
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Neurologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-18",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Dermatologist",
+      "Location": "Delhi",
+      "Date": "2025-06-14",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "ENT Specialist",
+      "Location": "Pune",
+      "Date": "2025-06-19",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    }
+  ],
+  "Paralysis (brain hemorrhage)": [
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Cardiologist",
+      "Location": "Delhi",
+      "Date": "2025-06-12",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Neurologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-19",
+      "Time_Slot": "09:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Cardiologist",
+      "Location": "Bangalore",
+      "Date": "2025-06-21",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "ENT Specialist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-14",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Sameer Shah",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Bangalore",
+      "Date": "2025-06-19",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    }
+  ],
+  "Peptic ulcer diseae": [
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Neurologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-19",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "General Physician",
+      "Location": "Hyderabad",
+      "Date": "2025-06-19",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Orthopedic",
+      "Location": "Hyderabad",
+      "Date": "2025-06-21",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "ENT Specialist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-12",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "ENT Specialist",
+      "Location": "Mumbai",
+      "Date": "2025-06-15",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    }
+  ],
+  "Pneumonia": [
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Gastroenterologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-13",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "ENT Specialist",
+      "Location": "Delhi",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Dermatologist",
+      "Location": "Pune",
+      "Date": "2025-06-20",
+      "Time_Slot": "03:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Gastroenterologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-20",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Neurologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-19",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    }
+  ],
+  "Psoriasis": [
+    {
+      "Doctor_Name": "Dr. Rajiv Sinha",
+      "Speciality": "Dermatologist",
+      "Location": "Pune",
+      "Date": "2025-06-18",
+      "Time_Slot": "03:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Cardiologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-13",
+      "Time_Slot": "05:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Pune",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "ENT Specialist",
+      "Location": "Mumbai",
+      "Date": "2025-06-16",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    }
+  ],
+  "Tuberculosis": [
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Pune",
+      "Date": "2025-06-19",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Neurologist",
+      "Location": "Ahmedabad",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "ENT Specialist",
+      "Location": "Delhi",
+      "Date": "2025-06-21",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Orthopedic",
+      "Location": "Pune",
+      "Date": "2025-06-18",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    }
+  ],
+  "Typhoid": [
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Pulmonologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Sneha Kapoor",
+      "Speciality": "Orthopedic",
+      "Location": "Chennai",
+      "Date": "2025-06-12",
+      "Time_Slot": "05:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "ENT Specialist",
+      "Location": "Bangalore",
+      "Date": "2025-06-12",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    }
+  ],
+  "Urinary tract infection": [
+    {
+      "Doctor_Name": "Dr. Manoj Kulkarni",
+      "Speciality": "Gastroenterologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-20",
+      "Time_Slot": "09:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Divya Shetty",
+      "Speciality": "Infectious Disease Specialist",
+      "Location": "Kolkata",
+      "Date": "2025-06-21",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Neurologist",
+      "Location": "Mumbai",
+      "Date": "2025-06-21",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    }
+  ],
+  "Varicose veins": [
+    {
+      "Doctor_Name": "Dr. Ritu Malhotra",
+      "Speciality": "Cardiologist",
+      "Location": "Bangalore",
+      "Date": "2025-06-21",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Priya Nair",
+      "Speciality": "Cardiologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-15",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Dermatologist",
+      "Location": "Kolkata",
+      "Date": "2025-06-20",
+      "Time_Slot": "01:00 PM",
+      "Availability": false
+    }
+  ],
+  "hepatitis A": [
+    {
+      "Doctor_Name": "Dr. Karan Patel",
+      "Speciality": "Dermatologist",
+      "Location": "Hyderabad",
+      "Date": "2025-06-16",
+      "Time_Slot": "11:00 AM",
+      "Availability": false
+    },
+    {
+      "Doctor_Name": "Dr. Arjun Rao",
+      "Speciality": "Orthopedic",
+      "Location": "Pune",
+      "Date": "2025-06-21",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    },
+    {
+      "Doctor_Name": "Dr. Neha Verma",
+      "Speciality": "Pulmonologist",
+      "Location": "Chennai",
+      "Date": "2025-06-13",
+      "Time_Slot": "01:00 PM",
+      "Availability": true
+    }
+  ]
+}
